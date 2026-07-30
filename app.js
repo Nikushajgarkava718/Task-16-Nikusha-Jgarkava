@@ -16,13 +16,13 @@ console.log(
 
 const books = [
   {
-    title: "the Odyssey",
+    title: "The Odyssey",
     author: "Homer",
     yearPublished: "8th century BCE",
   },
   {
-    title: "the Odyssey",
-    author: "Homer",
-    yearPublished: "8th century BCE",
+    title: "The lord of the rings",
+    author: "J.R.R Tolkien",
+    yearPublished: "1954",
   },
 ];
