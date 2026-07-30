@@ -33,3 +33,4 @@ const books = [
 ];
 
 console.log(books);
+console.log(books);
