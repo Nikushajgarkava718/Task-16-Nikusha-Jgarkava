@@ -23,6 +23,11 @@ const books = [
   {
     title: "The lord of the rings",
     author: "J.R.R Tolkien",
-    yearPublished: "1954",
+    yearPublished: 1954,
+  },
+  {
+    title: "Game of Thrones",
+    author: "George Martin",
+    yearPublished: 1996,
   },
 ];
