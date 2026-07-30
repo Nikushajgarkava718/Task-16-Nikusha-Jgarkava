@@ -13,3 +13,16 @@ const movie = {
 console.log(
   `${movie.movieName}, which is a ${movie.genre} movie, is available on ${movie.streamingPlatforms[0]}.`,
 );
+
+const books = [
+  {
+    title: "the Odyssey",
+    author: "Homer",
+    yearPublished: "8th century BCE",
+  },
+  {
+    title: "the Odyssey",
+    author: "Homer",
+    yearPublished: "8th century BCE",
+  },
+];
