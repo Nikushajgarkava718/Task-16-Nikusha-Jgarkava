@@ -31,3 +31,5 @@ const books = [
     yearPublished: 1996,
   },
 ];
+
+console.log(books);
