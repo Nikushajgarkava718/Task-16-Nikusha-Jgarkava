@@ -3,3 +3,13 @@ const sum = numbers[0] + numbers[1] + numbers[2] + numbers[3] + numbers[4];
 const average = sum / numbers.length;
 console.log(`${sum}`);
 console.log(`${average}`);
+
+const movie = {
+  movieName: "Troy",
+  genre: "Action/Drama",
+  streamingPlatforms: ["Netflix", "HBO Max", "Amazon Prime"],
+};
+
+console.log(
+  `${movie.movieName}, which is a ${movie.genre} movie, is available on ${movie.streamingPlatforms[0]}.`,
+);
